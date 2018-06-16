@@ -16,6 +16,7 @@ Note, the code in the casino-ethereum folder should work. It contains all the mo
 
 ##### Errata
 - *Finding the Contract Interface*
+
 This has moved in the remix IDE. It is now under *Compile* tab. After clicking compile there is a *Details* button(The contract name should be to the left in a dropdown). Click *Details* and a screen should popup. Scroll down to the WEB3DEPLOY section. Find the line beginning with **var casinoContract...** The right hand side has the interface defined.
 
 - *Building the front-end*
