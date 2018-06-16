@@ -5,8 +5,8 @@ A place for us to learn, experiment, and try things out
 ## projects
 
 ### Casino Ethereum
-The tutorial for this project can be found [here](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
-This tutorial leads you through creating a fully functional dApp. In it you'll create a contract and deploy it on the Ropsten network, build a front-end  React application that interacts directly with that contract, and deploy the front-end on IPFS. Its pretty cool and great for getting experience building dApps.
+The tutorial for this project can be found [here](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e).
+The tutorial leads you through creating a fully functional dApp. In it you'll create a contract and deploy it on the Ropsten network, build a front-end  React application that interacts directly with that contract, and deploy the front-end on IPFS. Its pretty cool and great for getting experience building dApps.
 
 #### Tutorial Errata
 
